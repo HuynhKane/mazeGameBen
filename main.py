@@ -29,4 +29,4 @@ plt.ylabel('Y-axis')
 plt.title('Hình ngôi nhà')
 
 # Hiển thị đồ thị
-plt.show()
+plt.savefig('house_plot.png')
